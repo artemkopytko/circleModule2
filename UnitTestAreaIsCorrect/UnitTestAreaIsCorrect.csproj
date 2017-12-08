@@ -59,6 +59,12 @@
       <Name>Circle</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="UnitTest2.cs" />
+    <None Include="UnitTest3.cs" />
+    <None Include="UnitTest4.cs" />
+    <None Include="UnitTest5.cs" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

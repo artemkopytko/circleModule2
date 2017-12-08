@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{434A205D-D95B-4A51-B3FD-ADF8B96CCCFA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Circle/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestAreaIsCorrect/UnitTest1.cs">
     <Files>
-      <File FileName="Circle/Program.cs" Line="25" Column="36" />
+      <File FileName="Circle/Program.cs" Line="30" Column="22" />
       <File FileName="UnitTestAreaIsCorrect/UnitTest1.cs" Line="23" Column="1" />
+      <File FileName="UnitTestAreaIsCorrect/UnitTest2.cs" Line="1" Column="1" />
+      <File FileName="UnitTestAreaIsCorrect/UnitTest3.cs" Line="1" Column="1" />
+      <File FileName="UnitTestAreaIsCorrect/UnitTest4.cs" Line="1" Column="1" />
+      <File FileName="UnitTestAreaIsCorrect/UnitTest5.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
