@@ -1,0 +1,5 @@
+/Users/artemkopytko/University/Circle/Circle/bin/Debug/Circle.exe
+/Users/artemkopytko/University/Circle/Circle/bin/Debug/Circle.pdb
+/Users/artemkopytko/University/Circle/Circle/obj/x86/Debug/Circle.csproj.CoreCompileInputs.cache
+/Users/artemkopytko/University/Circle/Circle/obj/x86/Debug/Circle.exe
+/Users/artemkopytko/University/Circle/Circle/obj/x86/Debug/Circle.pdb
